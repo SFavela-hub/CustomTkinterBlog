@@ -24,7 +24,7 @@ Install CustomTkinter using pip:
 ## Starter Code
 The starter code provided, labeled "starter.py", will showcase a very simple application. In the application, a label and button is used. 
 
-## Widget Example
+## Widget Examples
 In the repository, there is code that is associated for each widget talked about in the blog. This includes labels, buttons, entries, frames, and scrollable frames. Each file can be easily found since the naming convention follows the format of "*widgetname*_example.py"
 
 ## Complex Application
